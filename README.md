@@ -10,7 +10,6 @@ I'm a passionate Computer Science & Engineering (CSE) undergrad with a focus on 
 - 🧠 Building *LLM-powered tools* like Model Context Protocol (MCP) systems
 - 🌐 Creating *clean, modern websites & web apps* (cursor-built + responsive)
 - 🛠 Working on real-world solutions for *college communities & student marketplaces*
-- 🇩🇪 Researching about *higher studies in Germany*, especially in tech & AI
 
 ---
 
