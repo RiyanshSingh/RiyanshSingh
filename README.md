@@ -30,7 +30,7 @@ I'm a passionate Computer Science & Engineering (CSE) undergrad with a focus on 
 ---
 
 ## 📫 How to reach me:
-- ✉ Email: riyanshsingh.dev@gmail.com  
+- ✉ Email: itsyourriyansh@gmail.com  
 - 🌐 Portfolio: [riyanshsingh-portfolio.netlify.app](https://riyanshsingh-portfolio.netlify.app)  
 - 🧠 LinkedIn: [linkedin.com/in/riyanshsinghdev](https://www.linkedin.com/in/riyanshsingh)
 
