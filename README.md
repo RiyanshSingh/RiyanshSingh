@@ -28,5 +28,5 @@ Focused on building practical, scalable, and well-structured software systems.
 
 ## Contact
 - Email: itsyourriyansh@gmail.com  
-- Portfolio: https://riyanshsingh-portfolio.netlify.app  
+- Portfolio: https://riyanshsingh.vercel.app  
 - LinkedIn: https://www.linkedin.com/in/riyanshsingh  
