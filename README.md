@@ -1,32 +1,57 @@
+<div align="center">
+
 # Riyansh Singh
 
-Computer Science & Engineering undergraduate with strong interests in  
-Artificial Intelligence, Data Science, and Full-Stack Development.  
-Focused on building practical, scalable, and well-structured software systems.
+**Computer Science & Engineering • AI • Full-Stack Development**
 
-## Areas of Interest
-- Artificial Intelligence and Agentic AI systems  
-- Large Language Models (LLMs) and AI-powered tools  
-- Full-Stack Web Development  
-- Problem-solving using Data Structures and Algorithms  
+Building practical products with **AI, data, and modern web technologies.**
 
-## Currently Learning
-- Data Structures & Algorithms (Java, Python, C++)  
-- Full-Stack Web Development (HTML, CSS, JavaScript, React)  
-- AI and LLM frameworks (OpenAI APIs, LangChain, Vector Databases)  
-- Core Computer Science subjects:  
-  - Operating Systems  
-  - Database Management Systems  
-  - Computer Networks  
-  (GATE CS & IT level)
+</div>
 
-## Open to Collaboration
-- AI-based productivity tools  
-- Student-focused platforms and marketplaces  
-- Open-source software projects  
-- Data Science and Machine Learning projects  
+---
 
-## Contact
-- Email: itsyourriyansh@gmail.com  
-- Portfolio: https://riyanshsingh.vercel.app  
-- LinkedIn: https://www.linkedin.com/in/riyanshsingh  
+### About
+
+I'm a CSE undergraduate focused on **Artificial Intelligence, LLMs, Data Science, and Full-Stack Development**.
+
+I enjoy turning ideas into useful products and building systems that are **simple, scalable, and practical**.
+
+### Focus
+
+**AI & LLMs**
+Agentic AI · LLM Applications · AI Tools · RAG
+
+**Development**
+React · JavaScript · Python · Java · C++
+
+**Computer Science**
+DSA · Operating Systems · DBMS · Computer Networks
+
+### Currently Building & Learning
+
+* AI-powered applications and developer tools
+* Full-stack products with modern web technologies
+* Data Science & Machine Learning systems
+* DSA and core CS for GATE CS
+
+### Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,git,github&perline=9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://riyanshsingh.vercel.app">Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/riyanshsingh">LinkedIn</a>
+  ·   <a href="mailto:itsyourriyansh@gmail.com">Email</a>
+
+<br><br>
+
+<i>Building, learning, and shipping.</i>
+
+</div>
