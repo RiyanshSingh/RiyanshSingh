@@ -46,7 +46,7 @@ DSA · Operating Systems · DBMS · Computer Networks
 
 <div align="center">
 
-<a href="https://riyanshsingh.vercel.app">Portfolio</a>
+<a href="https://www.riyanshsingh.xyz">Portfolio</a>
   ·   <a href="https://www.linkedin.com/in/riyanshsingh">LinkedIn</a>
   ·   <a href="mailto:itsyourriyansh@gmail.com">Email</a>
 
