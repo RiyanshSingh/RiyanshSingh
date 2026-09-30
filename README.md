@@ -50,8 +50,4 @@ DSA · Operating Systems · DBMS · Computer Networks
   ·   <a href="https://www.linkedin.com/in/riyanshsingh">LinkedIn</a>
   ·   <a href="mailto:itsyourriyansh@gmail.com">Email</a>
 
-<br><br>
-
-<i>Building, learning, and shipping.</i>
-
 </div>
